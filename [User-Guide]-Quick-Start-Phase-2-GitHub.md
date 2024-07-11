@@ -61,10 +61,10 @@ Although you can just run `Deploy-Accelerator` and fill out the prompted inputs,
 
     ```pwsh
     # Windows (adjust the paths to match your setup)
-    Deploy-Accelerator -inputs "c:\accelerator\inputs\input.yaml" -output "c:\accelerator\output"
+    Deploy-Accelerator -inputs "c:\accelerator\config\input.yaml" -output "c:\accelerator\output"
 
     # Linux/Mac (adjust the paths to match your setup)
-    Deploy-Accelerator -inputs "~/accelerator/inputs/input.yaml" -output "~/accelerator/output"
+    Deploy-Accelerator -inputs "~/accelerator/config/input.yaml" -output "~/accelerator/output"
     ```
 
 1. You will see a Terraform `init` and `apply` happen.
