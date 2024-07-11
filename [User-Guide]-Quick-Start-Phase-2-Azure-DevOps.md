@@ -141,7 +141,9 @@ Although you can just run `Deploy-Accelerator` and fill out the prompted inputs,
     ```pwsh
     # Windows (adjust the paths to match your setup)
     Deploy-Accelerator -inputs "c:\accelerator\config\input.yaml" -output "c:\accelerator\output"
+    ```
 
+    ```pwsh
     # Linux/Mac (adjust the paths to match your setup)
     Deploy-Accelerator -inputs "~/accelerator/config/input.yaml" -output "~/accelerator/output"
     ```
