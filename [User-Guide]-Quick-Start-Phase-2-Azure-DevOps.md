@@ -15,7 +15,9 @@ Although you can just run `Deploy-Accelerator` and fill out the prompted inputs,
     # Windows
     New-Item c:\accelerator\config\inputs.yaml -Force
     New-Item c:\accelerator\output
+    ```
 
+    ```pwsh
     # Linux/Mac
     New-Item ~/accelerator/config/inputs.yaml -Force
     New-Item ~/accelerator/output
