@@ -9,7 +9,7 @@ The accelerator follows a 3 phase approach:
 
 - [Quick Start Phase 1][wiki_quick_start_phase_1]: Instructions to configure credentials and subscriptions.
 - [Quick Start Phase 2][wiki_quick_start_phase_2]: Run the PowerShell script to generate the continuous delivery environment.
-- [Quick Start Phase 3][wiki_quick_start_phase_3]: Update the module (if needed) to suit the needs of your organization and deploy via continuous delivery.
+- [Quick Start Phase 3][wiki_quick_start_phase_3]: Update the module (if needed) to suit the needs of your organisation and deploy via continuous delivery.
 
 ![Azure landing zone accelerator process][alz_accelerator_overview]
 

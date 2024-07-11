@@ -1,7 +1,7 @@
 <!-- markdownlint-disable first-line-h1 -->
 ![Azure logo](media/Logo-Small.png)
 
-## Azure Landing Zones Accelerators
+## Azure landing zones accelerators
 
 - [Home][wiki_home]
 - [User guide][wiki_user_guide]
